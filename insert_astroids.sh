@@ -15,5 +15,5 @@ then
   ((COUNT++))
   done
 else
-echo kaç ay insert etmek istiyorsan arg olarak ekle
+echo kaç astroid insert etmek istiyorsan arg olarak ekle
 fi
